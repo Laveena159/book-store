@@ -1,0 +1,63 @@
+body {
+  margin: auto;
+  padding: 0px;
+  font-family: "Times New Roman", Times, serif;
+  background-image: url("bookstore.jpeg");
+  backdrop-filter: blur(10px);
+}
+header {
+  text-decoration: white;
+  background-color: black;
+
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+}
+.row {
+  margin: 20px;
+  text-align: center;
+  padding: 20px;
+}
+
+nav ul a {
+  margin: 50px;
+  padding: 20px;
+  text-align: center;
+  font-size: 20px;
+  word-spacing: 40px;
+  color: white;
+  text-decoration: none;
+}
+.head {
+  text-align: center;
+  position: relative;
+  color: white;
+}
+p {
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h2 {
+  text-align: center;
+  color: white;
+}
+
+.content {
+  
+  padding: 20px;
+  font-size: small;
+  text-align: center;
+}
+.content2 {
+  margin: 10px;
+  padding: 20px;
+  font-size: small;
+  text-align: center;
+}
+.content3 {
+  margin: 10px;
+  padding: 20px;
+  font-size: small;
+  text-align: center;
+}
